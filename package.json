@@ -144,7 +144,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "eventemitter3": "^5.0.1",
-    "express": "^4.18.2",
+    "express": "^4.22.3",
     "figlet": "^1.7.0",
     "gradient-string": "^2.0.2",
     "inquirer": "^9.2.15",
